@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arijit-123
-- 👀 I’m interested in front end development, java based projects. 
-- 🌱 I’m currently learning full stack development
+- 👀 I’m interested in full stack development, java based projects. 
+- 🌱 I’m a full stack development
 
 - 📫 How to reach me arijitkaran240@gmail.com
 
